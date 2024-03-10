@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HalloDocWebDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HalloDocWebDemo.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\05b569b1-9b8e-4c7e-a76d-26d967c92ce9_73d97037-6122-43dd-a2b7-c0e6949fc924_RESUME Mayur.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\05b569b1-9b8e-4c7e-a76d-26d967c92ce9_73d97037-6122-43dd-a2b7-c0e6949fc924_RESUME Mayur.pdf"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\1248c998-76c1-4fda-afed-53d1dc93a3c7_Session 2 (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\1248c998-76c1-4fda-afed-53d1dc93a3c7_Session 2 (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\131dc501-1c6e-4280-83a0-62357b4dc3ff_RESUME URVISH.docx",
+      "PackagePath": "staticwebassets\\Uploads\\131dc501-1c6e-4280-83a0-62357b4dc3ff_RESUME URVISH.docx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\13d4d02e-e817-4971-8213-2b362e3c1725_GitPPT-Visual Studio New PPT.pptm",
+      "PackagePath": "staticwebassets\\Uploads\\13d4d02e-e817-4971-8213-2b362e3c1725_GitPPT-Visual Studio New PPT.pptm"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\39d6cc30-b7c5-4a13-b587-a5c1ed8e8e4b_Session 2 (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\39d6cc30-b7c5-4a13-b587-a5c1ed8e8e4b_Session 2 (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\3a51c51d-ad7c-48b7-9bf8-d3296bbaa0df_SRS-23-24-Trainees-21Feb24.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\3a51c51d-ad7c-48b7-9bf8-d3296bbaa0df_SRS-23-24-Trainees-21Feb24.pdf"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\436d26a1-2fd3-4c8c-8972-143fca30daf5_Business.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\436d26a1-2fd3-4c8c-8972-143fca30daf5_Business.pptx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\54365f7d-c523-45a9-b1df-95cf35b45497_.net-Whole-Plane-2024.pdf (1) (1)",
+      "PackagePath": "staticwebassets\\Uploads\\54365f7d-c523-45a9-b1df-95cf35b45497_.net-Whole-Plane-2024.pdf (1) (1)"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\5a114caf-e00a-44ca-8171-7d9824939b39_Untitled 1.ods",
+      "PackagePath": "staticwebassets\\Uploads\\5a114caf-e00a-44ca-8171-7d9824939b39_Untitled 1.ods"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\6b579e53-9702-4ae8-820a-6e6851cf5121_RESUME URVISH.docx",
+      "PackagePath": "staticwebassets\\Uploads\\6b579e53-9702-4ae8-820a-6e6851cf5121_RESUME URVISH.docx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\71df822c-39b3-4cf3-93e6-483394cda8d7_RESUME URVISH.docx",
+      "PackagePath": "staticwebassets\\Uploads\\71df822c-39b3-4cf3-93e6-483394cda8d7_RESUME URVISH.docx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\725644f6-00ed-49f2-9527-f45cfa62477d_RESUME URVISH.docx",
+      "PackagePath": "staticwebassets\\Uploads\\725644f6-00ed-49f2-9527-f45cfa62477d_RESUME URVISH.docx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\7408ef80-1712-48f6-aa43-5c3b57f54c94_dvdrental.tar",
+      "PackagePath": "staticwebassets\\Uploads\\7408ef80-1712-48f6-aa43-5c3b57f54c94_dvdrental.tar"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\7ed4b1c0-8ebc-4c52-b8d7-e99c47ce9b6e_d87b3e90-6d40-4349-b3f7-ec2628949ef0_Session 2 (1) (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\7ed4b1c0-8ebc-4c52-b8d7-e99c47ce9b6e_d87b3e90-6d40-4349-b3f7-ec2628949ef0_Session 2 (1) (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\86663adf-adcb-4e5f-80f9-f4a7601b7091_GitPPT-Visual Studio New PPT (1)(1).pptm",
+      "PackagePath": "staticwebassets\\Uploads\\86663adf-adcb-4e5f-80f9-f4a7601b7091_GitPPT-Visual Studio New PPT (1)(1).pptm"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\8df3d0b0-cf9d-4b07-a99e-cb9320d4b7ff_Session 2 (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\8df3d0b0-cf9d-4b07-a99e-cb9320d4b7ff_Session 2 (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\b442c8ff-75f4-46bc-9d71-a49566b8a737_ViewUploads (1).htm",
+      "PackagePath": "staticwebassets\\Uploads\\b442c8ff-75f4-46bc-9d71-a49566b8a737_ViewUploads (1).htm"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\bed6af4f-49fd-4bb6-8801-49e1806c5d9e_Session 2 (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\bed6af4f-49fd-4bb6-8801-49e1806c5d9e_Session 2 (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\d87b3e90-6d40-4349-b3f7-ec2628949ef0_Session 2 (1).txt",
+      "PackagePath": "staticwebassets\\Uploads\\d87b3e90-6d40-4349-b3f7-ec2628949ef0_Session 2 (1).txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\e2b27d2f-3938-44c6-8a24-16cd1153ccf9_Test Instructions.pdf",
+      "PackagePath": "staticwebassets\\Uploads\\e2b27d2f-3938-44c6-8a24-16cd1153ccf9_Test Instructions.pdf"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\Uploads\\f9171d5c-c623-4bb4-8e47-8ad150006ef0_Internship at Tatvasoft.pptx",
+      "PackagePath": "staticwebassets\\Uploads\\f9171d5c-c623-4bb4-8e47-8ad150006ef0_Internship at Tatvasoft.pptx"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Admindashboard.css",
+      "PackagePath": "staticwebassets\\css\\Admindashboard.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Business_request.css",
+      "PackagePath": "staticwebassets\\css\\Business_request.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Conceirge.css",
+      "PackagePath": "staticwebassets\\css\\Conceirge.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Family_request.css",
+      "PackagePath": "staticwebassets\\css\\Family_request.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Forget_pass.css",
+      "PackagePath": "staticwebassets\\css\\Forget_pass.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\PatientDashboard.css",
+      "PackagePath": "staticwebassets\\css\\PatientDashboard.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Patient_login.css",
+      "PackagePath": "staticwebassets\\css\\Patient_login.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Patient_register.css",
+      "PackagePath": "staticwebassets\\css\\Patient_register.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\Patient_request.css",
+      "PackagePath": "staticwebassets\\css\\Patient_request.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\ViewCase.css",
+      "PackagePath": "staticwebassets\\css\\ViewCase.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\images\\Accessdenied.webp",
+      "PackagePath": "staticwebassets\\images\\Accessdenied.webp"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\images\\Fig56. Patient site 1.png",
+      "PackagePath": "staticwebassets\\images\\Fig56. Patient site 1.png"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\images\\login.png.jpg",
+      "PackagePath": "staticwebassets\\images\\login.png.jpg"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\images\\moon.svg",
+      "PackagePath": "staticwebassets\\images\\moon.svg"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\images\\newicon.png",
+      "PackagePath": "staticwebassets\\images\\newicon.png"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Tatvasoft\\new-1\\HalloDoc\\HalloDocWebDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HalloDocWebDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HalloDocWebDemo.props",
+      "PackagePath": "build\\HalloDocWebDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HalloDocWebDemo.props",
+      "PackagePath": "buildMultiTargeting\\HalloDocWebDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HalloDocWebDemo.props",
+      "PackagePath": "buildTransitive\\HalloDocWebDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,53 @@
+﻿@model HalloDocServices.Admin.ViewNotes;
+
+@{
+    ViewData["Title"] = "ViewNotes";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+    <div class="container">
+    <form asp-action="Addnote" asp-controller="Admin">
+            <div class="d-flex justify-content-between mt-5">
+                <h4 class="mb-5 fw-bolder fs-2">Notes</h4>
+                <div>
+                <a asp-action="AdminDashboard" class="btn border-2 border-info p-2 px-3 text-info text-black fs-5">
+                    &lt;  Back
+                </a>
+                </div>
+            </div>
+
+            <div class="row p-3">
+                <div class="col-sm-6 py-3 border-dark shadow-sm form-floating rounded-3">
+                    <i class="bi bi-arrow-left-right me-3"></i><b>Transfer Notes</b>
+                    <p>Data from table</p>
+                </div>
+            <div class="col py-3 form-floating border-dark shadow-sm rounded-3">
+                    <i class="bi bi-person-fill me-3"></i><b>Physician Notes</b>
+                <p>@Model.PhysicianNotes</p>
+                </div>
+            </div>
+
+
+            <div class="row p-3">
+            <div class="col py-3 form-floating border-dark shadow-sm rounded-3">
+                    <i class="bi bi-person-square me-3"></i><b>Admin Notes</b>
+                    <p> @Model.AdminNotes</p>
+                </div>
+
+            </div>
+
+            <div class="col-12 form-floating mb-3 border-dark rounded-3 shadow-sm">
+                <textarea asp-for="AdminNotes" style="height: 150px;" type="text" id="textarea" class="form-control" fs-1
+                          placeholder="This is Admin Notes"> @Model.AdminNotes</textarea>
+                <label for="textarea">Additional Admin Notes</label>
+
+                <div class="btn-div mb-3 mt-3 d-flex justify-content-end">
+                    <button class="btn btn-primary" type="submit">Save Changes</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+
